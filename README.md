@@ -4,7 +4,7 @@
 
     ---------------------------------------------------------------------->>
     
-  # I have Successfully completed the Python version for Pacman Game
+***I have Successfully completed the Python version for Pacman Game***
     
 **You can Access it from the Link given Below:-**
 
